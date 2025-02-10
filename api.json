@@ -1812,16 +1812,6 @@
             "filterable": 1
         },
         {
-            "key": "js_a8音乐",
-            "name": "《恩吧🎤音乐》",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/a8yy.js"
-        },
-        {
             "key": "博看听书",
             "name": "《听书📚博看》",
             "type": 3,
